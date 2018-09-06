@@ -171,6 +171,12 @@ npm run lint
 - Repository: https://github.com/jamesroseman/trembo
 - Issue tracker: https://github.com/jamesroseman/trembo/issues
 
+## Used By
+
+Feel free to submit a pull request to add to this list.
+
+* [SSOLD](https://github.com/hapinetwork/ssold)
+
 ## Licensing
 
 MIT
