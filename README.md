@@ -1,4 +1,4 @@
-# TREMBO
+# TReMBO
 > Typescript RElay Mongoose Boilerplate
 
 A turn-key boilerplate that works out of the box to build web applications with
