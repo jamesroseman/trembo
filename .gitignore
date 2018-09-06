@@ -1,0 +1,24 @@
+# App files
+app/dist
+app/public/dist
+app/.awcache
+app/src/components/*/__generated__/
+app/src/containers/*/__generated__/
+
+# Server files
+server/dist
+server/src/typings
+server/src/schema/typings
+server/src/schema/types.ts
+
+# GraphQL files
+schema.graphql
+
+# Project files
+node_modules
+.DS_Store
+.yarnclean
+
+# Project logs
+npm-debug.log
+yarn-error.log
